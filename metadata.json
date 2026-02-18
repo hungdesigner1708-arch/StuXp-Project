@@ -1,0 +1,8 @@
+{
+  "name": "StuXP - Sinh Viên Hệ Sinh Thái",
+  "description": "A vibrant, Gen Z-styled landing page for StuXP featuring bento grids, hot deals, and student-focused AI perks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
